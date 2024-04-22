@@ -16,4 +16,6 @@ gcc DOS2.c -o dos
 
 Execute o seguinte comando para começar:
 
+```
 ./dos <FTP_SERVER_IP>
+```
