@@ -6,9 +6,11 @@ Este script em C é projetado para fins educacionais, visando explorar o funcion
 
 Para usar este projeto, siga estas etapas:
 
+```
 git clone https://github.com/vaskitup/DOS-C.git
 cd DOS-C
 gcc DOS2.c -o dos
+```
 
 ## Uso
 
